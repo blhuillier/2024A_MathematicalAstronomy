@@ -1,4 +1,4 @@
 # Mathematical Astronomy
-Benjamin L'Huillier
-Sejong University
-Fall 2022
+Benjamin L'Huillier  
+Sejong University  
+Fall 2022  
