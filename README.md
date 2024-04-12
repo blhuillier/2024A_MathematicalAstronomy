@@ -13,6 +13,8 @@ Spring 2024
 
 ## Intro to Python: 
 
+Here are some good resource to learn/improve your python skills:
+
 * https://github.com/drgreen/Physics_39. 
 * https://drgreen.github.io/Phys39-book/intro.html. 
 * https://github.com/kinoshitadaisuke/ncu_astroinformatics_202209
