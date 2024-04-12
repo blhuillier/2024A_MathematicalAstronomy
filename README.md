@@ -4,7 +4,7 @@ Sejong University
 Spring 2024  
 
 # Notebooks
-1. Chapter 1 - Fundamentals of Probabilities
+1. [Chapter 1 - Fundamentals of Probabilities](Notebooks/Chap_1_Exercises.ipynb)
 2. Chapter 2 - Continuous Probabilities
 3. Chapter 3 - Estimation
 4. [Chapter 4 - Least Squares](Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
