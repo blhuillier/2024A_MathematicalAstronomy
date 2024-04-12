@@ -19,3 +19,4 @@ Spring 2024
 ## Astrostatistics 
 
 * https://github.com/dgerosa/astrostatistics_bicocca_2022
+* https://github.com/csabiu/Astrostatistics/
