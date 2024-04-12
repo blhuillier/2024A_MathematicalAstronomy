@@ -4,7 +4,7 @@ Sejong University
 Spring 2024  
 
 # Notebooks
-1. [Chapter 7 - Least Squares] (Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
+1. [Chapter 7 - Least Squares](Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
 
 # Useful Resources
 
