@@ -6,8 +6,9 @@ Spring 2024
 # Notebooks
 1. [Chapter 1 - Fundamentals of Probabilities](Notebooks/Chap_1_Exercises.ipynb)
 2. [Chapter 2 - Continuous Probabilities](Notebooks/Chap2_Exercises.ipynb)
-3. Chapter 3 - Estimation
+3. [Chapter 3 - Estimation](Notebooks/Chap_3_Estimation.ipynb)
 4. [Chapter 4 - Least Squares](Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
+5. Chapter 5 - Bayesian Inference
 
 # Useful Resources
 
