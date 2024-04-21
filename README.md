@@ -27,3 +27,6 @@ Here are some good resource to learn/improve your python skills:
 * [D. Gerosa's Astrostats 2024 Lecture](https://github.com/dgerosa/astrostatistics_bicocca_2024): A great course! also [2022](https://github.com/dgerosa/astrostatistics_bicocca_2022) and [2023](https://github.com/dgerosa/astrostatistics_bicocca_2023)
 * [C. Sabiu's Astrostats Lecture](https://github.com/csabiu/Astrostatistics/)
 * [Python Datascience Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+## General Statistics
+* [MIT 18.650 Statistics for Applications, Fall 2016 (YouTube)](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
