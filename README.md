@@ -8,7 +8,7 @@ Spring 2024
 2. [Chapter 2 - Continuous Probabilities](Notebooks/Chap2_Exercises.ipynb)
 3. [Chapter 3 - Estimation](Notebooks/Chap_3_Estimation.ipynb)
 4. [Chapter 4 - Least Squares](Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
-5. Chapter 5 - Bayesian Inference
+5. [Chapter 5 - Bayesian Inference](Notebooks/Chap_5_Bayesian_exercise.ipynb)
 
 # Useful Resources
 
