@@ -9,7 +9,8 @@ Spring 2024
 3. [Chapter 3 - Estimation](Notebooks/Chap_3_Estimation.ipynb)
 4. [Chapter 4 - Least Squares](Notebooks/Lecture_4_Least_Squares_exercises.ipynb)
 5. [Chapter 5 - Bayesian Inference](Notebooks/Chap_5_Bayesian_exercise.ipynb)
-
+6. [Chapter 6 - Hypothesis Tests](Notebooks/Chap_6_hypothesis_exercise.ipynb) 
+7. 
 # Useful Resources
 
 ## Intro to Python: 
